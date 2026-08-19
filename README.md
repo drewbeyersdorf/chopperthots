@@ -1,28 +1,27 @@
 # chopperthots
 
-AI tips. Shared slow.
+A public magazine for people who still paddle.
 
-The **headline is the tip**. Under it, a story. Under that, when / what / how. No secrets. No API keys. No floor numbers. Nothing posts itself.
+Matt keeps a repo so the people can steal the craft. Thrasher keeps a mag so the people can steal the heat. This is that, for AI, without their names on the door.
 
-This is the public desk. The factory stays private.
+The **headline is the tip**. Under it, a story. Then a short. Then a still. No secrets. No API. Nothing posts itself.
 
-## How to read
+## Sections
 
-1. [`TIPS.md`](TIPS.md) — ten tips we actually run.
-2. [`thoughts/`](thoughts/) — a slow pile. Twenty at a time.
-3. [`CONTRIBUTING.md`](CONTRIBUTING.md) — what never goes in here.
+| Section | Job |
+| --- | --- |
+| [`TIPS.md`](TIPS.md) | Trick tips. Ten we actually run. |
+| [`thoughts/`](thoughts/) | Drop-ins. Twenty a batch. |
+| [`shorts/`](shorts/) | 15–20s parts. You film. |
+| [`issues/`](issues/) | The issue. Cover line + what shipped. |
+| [`MAINTAIN.md`](MAINTAIN.md) | How we keep it, Pocock-slow. |
 
-Handle on X: [@choppersluts](https://x.com/choppersluts). Compose is a human. This repo does not tweet.
+Current issue: [`issues/001.md`](issues/001.md) — *the lid*.
 
-## The angle
+X: [@choppersluts](https://x.com/choppersluts). Compose is a human.
 
-Engelbart: make the person taller. Do not steal the legs.
-Bukowski: don’t try. Do the hours.
-Thompson: buy the ticket. Stage the ride.
-Unix: one job. A knife. Not a hotel.
+## For the people
 
-AI is a spotter. You still take the crash.
+Steal the tip. Film the short. Leave the factory out.
 
-## What this is not
-
-Not a skills dump. Not an MCP catalog. Not Methodology’s floor. Not a content calendar.
+We are not Thrasher. We are not Total TypeScript. We are a desk that publishes.
