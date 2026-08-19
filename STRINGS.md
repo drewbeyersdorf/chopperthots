@@ -11,5 +11,6 @@ A **string** is one idea in every cut we have, plus the versions the world alrea
 | [03 blank](strings/03-blank.md) | Don’t invent the number |
 | [04 winters](strings/04-winters.md) | The world already froze twice |
 | [05 plug](strings/05-plug.md) | A plug is not a skill |
+| [06 life / factory](strings/06-life-factory.md) | 1940s automata → Life → the shop. Two streams. |
 
 Post the whole string. Same week is fine. Taste is the recap, not the novelty.
