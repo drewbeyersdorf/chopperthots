@@ -1,21 +1,16 @@
 # Channels
 
-Same thought. Three mouths.
+Same thought. Four mouths. The blog is home.
 
-## YouTube Short
+| Mouth | Shape |
+| --- | --- |
+| Blog / `notes/` | The long version. Your domain later. |
+| X | Under 220 |
+| YouTube Short | 12–18s, voice only |
+| LinkedIn | One paragraph, no blazer |
 
-12–18s. Voice only. One object. Title is the first sentence.
-You film or hold a plate. No on-screen type.
-Scripts live in `shorts/`.
+Medium is optional syndicate. Not the desk. Rented context. If we use it, we paste after the note is already here.
 
-## LinkedIn
+drewbeyersdorf.com is a portfolio today. When it grows `/notes`, these files move there. Until then this repo is the blog.
 
-One paragraph. Same fact as the X string. Complete sentences.
-No humbled. No five lessons. No hashtags.
-Customers are smart. Don't put on a blazer.
-
-## X
-
-Under 220. First sentence is the post.
-
-Auto-upload is off until YouTube / LinkedIn / X creds exist in n8n. Pack emails at 07:15 PT.
+Daily pack at 07:15 PT drafts all four. Nothing publishes itself.
